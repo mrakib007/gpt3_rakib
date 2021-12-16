@@ -1,5 +1,5 @@
-export {default as article} from './article/article.jsx';
-export {default as brand} from './brand/brand.jsx';
-export {default as cta} from './cta/cta.jsx';
-export {default as feature} from './feature/feature.jsx';
-export {default as Navbar} from './navbar/Navbar.jsx';
+export { default as Article } from './article/Article';
+export { default as Brand } from './brand/Brand';
+export { default as CTA } from './cta/CTA';
+export { default as Feature } from './feature/Feature';
+export { default as Navbar } from './navbar/Navbar';

@@ -1,6 +1,6 @@
-export {default as blog} from './blog/blog.jsx';
-export {default as features} from './features/features.jsx';
-export {default as footer} from './footer/footer.jsx';
-export {default as header} from './header/header.jsx';
-export {default as possibility} from './possibility/possibility.jsx';
-export {default as whatgpt3} from './whatgpt3/whatgpt3.jsx';
+export { default as Blog } from './blog/Blog';
+export { default as Features } from './features/Features';
+export { default as Footer } from './footer/Footer';
+export { default as Header } from './header/Header';
+export { default as Possibility } from './possibility/Possibility';
+export { default as WhatGPT3 } from './whatGPT3/WhatGPT3';
